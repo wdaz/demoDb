@@ -15,7 +15,7 @@
     },
     {
       "id": 2,
-      "name": "Muradov Mehman Asif oğlu",
+      "fullName": "Muradov Mehman Asif oğlu",
       "pin": "",
       "email": "",
       "codeWord": "",
@@ -28,7 +28,7 @@
     },
     {
       "id": 3,
-      "name": "Məmmədyarov Şəhriyar Abbas oğlu",
+      "fullName": "Məmmədyarov Şəhriyar Abbas oğlu",
       "pin": "",
       "email": "",
       "codeWord": "",
@@ -41,7 +41,7 @@
     },
     {
       "id": 4,
-      "name": "Kamilov Kamil Kamil oğlu",
+      "fullName": "Kamilov Kamil Kamil oğlu",
       "pin": "",
       "email": "",
       "codeWord": "",
