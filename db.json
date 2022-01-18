@@ -2,17 +2,54 @@
   "users": [
     {
       "id": 1,
-      "name": "Ruslan",
+      "fullName": "Əliyeva Esmira Namiq qızı",
+      "pin": "",
+      "email": "",
+      "codeWord": "",
+      "phone": "",
+      "isOTP": "",
+      "isView": true,
+      "isAction": true,
+      "isApprov": false,
       "isNew": false
     },
     {
       "id": 2,
-      "name": "Test 1",
-      "isNew": true
+      "name": "Muradov Mehman Asif oğlu",
+      "pin": "",
+      "email": "",
+      "codeWord": "",
+      "phone": "",
+      "isOTP": "",
+      "isView": true,
+      "isAction": true,
+      "isApprov": false,
+      "isNew": false
     },
     {
       "id": 3,
-      "name": "Test 2",
+      "name": "Məmmədyarov Şəhriyar Abbas oğlu",
+      "pin": "",
+      "email": "",
+      "codeWord": "",
+      "phone": "",
+      "isOTP": "",
+      "isView": true,
+      "isAction": true,
+      "isApprov": false,
+      "isNew": false
+    },
+    {
+      "id": 4,
+      "name": "Kamilov Kamil Kamil oğlu",
+      "pin": "",
+      "email": "",
+      "codeWord": "",
+      "phone": "",
+      "isOTP": "",
+      "isView": true,
+      "isAction": true,
+      "isApprov": false,
       "isNew": true
     }
   ]
