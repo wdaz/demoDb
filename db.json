@@ -11,7 +11,8 @@
       "isView": true,
       "isAction": true,
       "isApprov": false,
-      "isNew": false
+      "isNew": false,
+      "isBlocked": true
     },
     {
       "id": 1642535701134,
@@ -24,7 +25,8 @@
       "isView": true,
       "isAction": true,
       "isApprov": false,
-      "isNew": false
+      "isNew": false,
+      "isBlocked": false
     },
     {
       "id": 1642535701135,
@@ -37,7 +39,8 @@
       "isView": true,
       "isAction": true,
       "isApprov": false,
-      "isNew": false
+      "isNew": false,
+      "isBlocked": false
     },
     {
       "id": 1642535701136,
